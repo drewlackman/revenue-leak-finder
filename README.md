@@ -1,5 +1,9 @@
 Revenue Leak Finder
 
+![Revenue Leak Finder Report Preview](screenshots/report_preview.png)
+
+![Revenue Leak Finder Charts](screenshots/charts_preview.png)
+
 Revenue Leak Finder is a lightweight analytics tool that helps subscription businesses identify churn risk, quantify revenue at risk, and surface retention opportunities in clear dollar terms.
 
 Instead of dashboards full of vanity metrics, this tool answers one practical question:
